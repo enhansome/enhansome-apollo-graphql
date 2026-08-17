@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T09:08:37Z",
+            "last_commit": "2026-08-17T05:11:12Z",
             "owner": "apollographql",
             "repo": "apollo-client",
-            "stars": 19810
+            "stars": 19808
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T06:15:53Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8531
+            "stars": 8530
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:56:17Z",
+            "last_commit": "2026-08-17T01:55:04Z",
             "owner": "ardatan",
             "repo": "graphql-tools",
             "stars": 5431
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T09:58:17Z",
+            "last_commit": "2026-08-16T18:45:43Z",
             "owner": "apollographql",
             "repo": "apollo-client-devtools",
             "stars": 1528
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T05:38:48Z",
+            "last_commit": "2026-08-17T07:14:29Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141796
+            "stars": 141820
           }
         },
         {
@@ -307,7 +307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:21:02.031Z",
+    "last_updated": "2026-08-17T07:40:39.849Z",
     "original_repository": "ooade/awesome-apollo-graphql",
     "original_repository_sha": "a60ac6d5563ecd94de59883cc1ed3b3be2845817",
     "enhanced_repository": "enhansome/enhansome-apollo-graphql",
