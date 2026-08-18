@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T05:11:12Z",
+            "last_commit": "2026-08-17T20:23:31Z",
             "owner": "apollographql",
             "repo": "apollo-client",
-            "stars": 19808
+            "stars": 19807
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T10:05:45Z",
+            "last_commit": "2026-08-17T18:33:34Z",
             "owner": "apollographql",
             "repo": "apollo-server",
             "stars": 13944
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T06:15:53Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8530
+            "stars": 8528
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T01:55:04Z",
+            "last_commit": "2026-08-17T21:31:48Z",
             "owner": "ardatan",
             "repo": "graphql-tools",
-            "stars": 5431
+            "stars": 5432
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T07:14:29Z",
+            "last_commit": "2026-08-18T07:25:41Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141820
+            "stars": 141821
           }
         },
         {
@@ -307,7 +307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:40:39.849Z",
+    "last_updated": "2026-08-18T07:26:16.258Z",
     "original_repository": "ooade/awesome-apollo-graphql",
     "original_repository_sha": "a60ac6d5563ecd94de59883cc1ed3b3be2845817",
     "enhanced_repository": "enhansome/enhansome-apollo-graphql",
