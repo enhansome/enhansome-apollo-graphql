@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52630616,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:23:31Z",
+            "last_commit": "2026-08-19T03:40:20Z",
             "owner": "apollographql",
             "repo": "apollo-client",
             "stars": 19807
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56760633,
             "language": "TypeScript",
             "last_commit": "2026-08-17T18:33:34Z",
             "owner": "apollographql",
             "repo": "apollo-server",
-            "stars": 13944
+            "stars": 13945
           }
         },
         {
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110819939,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T06:15:53Z",
+            "last_commit": "2026-08-18T14:23:50Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
             "stars": 8528
@@ -52,8 +55,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54432168,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:31:48Z",
+            "last_commit": "2026-08-18T22:00:27Z",
             "owner": "ardatan",
             "repo": "graphql-tools",
             "stars": 5432
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66106110,
             "language": "TypeScript",
             "last_commit": "2024-11-11T21:51:02Z",
             "owner": "apollographql",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75882379,
             "language": "TypeScript",
             "last_commit": "2026-08-16T18:45:43Z",
             "owner": "apollographql",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93657402,
             "language": "TypeScript",
             "last_commit": "2023-04-14T11:28:06Z",
             "owner": "apollographql",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 95804445,
             "language": "TypeScript",
             "last_commit": "2019-07-03T08:56:47Z",
             "owner": "apollographql",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145334402,
             "language": "TypeScript",
             "last_commit": "2026-08-14T17:43:32Z",
             "owner": "DanielMSchmidt",
@@ -136,24 +145,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159340043,
             "language": "JavaScript",
             "last_commit": "2022-12-10T02:02:06Z",
             "owner": "ecerroni",
             "repo": "apollo-cache-updater",
             "stars": 159
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Launchpad",
-          "description": "A tool for building a Node.js GraphQL API right in your browser.",
-          "children": []
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T07:25:41Z",
+            "last_commit": "2026-08-19T07:22:28Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141821
+            "stars": 141860
           }
         },
         {
@@ -176,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 112606854,
             "language": "JavaScript",
             "last_commit": "2026-01-29T09:24:46Z",
             "owner": "ooade",
@@ -190,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71637232,
             "language": "JavaScript",
             "last_commit": "2019-02-08T05:00:40Z",
             "owner": "MacKentoch",
@@ -204,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175357822,
             "language": "JavaScript",
             "last_commit": "2026-01-27T10:01:53Z",
             "owner": "RishikeshDarandale",
@@ -218,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 91253802,
             "language": "JavaScript",
             "last_commit": "2018-12-24T10:10:17Z",
             "owner": "ooade",
@@ -232,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115204878,
             "language": "JavaScript",
             "last_commit": "2024-06-17T20:54:30Z",
             "owner": "ZaninAndrea",
@@ -243,7 +253,7 @@
       "title": "Boilerplates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -252,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119005072,
             "language": "JavaScript",
             "last_commit": "2020-06-12T08:41:45Z",
             "owner": "the-road-to-graphql",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 123173366,
             "language": "TypeScript",
             "last_commit": "2021-06-09T08:18:30Z",
             "owner": "KATT",
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70249959,
             "language": "JavaScript",
             "last_commit": "2017-02-19T17:12:58Z",
             "owner": "WeLikeGraphQL",
@@ -289,25 +302,10 @@
         }
       ],
       "title": "Example Apps"
-    },
-    {
-      "description": "Contribute some ;)",
-      "items": [],
-      "title": "Tips"
-    },
-    {
-      "description": "Your contributions and suggestions are welcome anytime. Build great stuffs with Apollo GraphQL libraries, share with us ;)\nMake sure you follow the guidelines. Thank you!",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:26:16.258Z",
+    "last_updated": "2026-08-19T07:27:43.939Z",
     "original_repository": "ooade/awesome-apollo-graphql",
     "original_repository_sha": "a60ac6d5563ecd94de59883cc1ed3b3be2845817",
     "enhanced_repository": "enhansome/enhansome-apollo-graphql",
