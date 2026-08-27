@@ -27,7 +27,7 @@
 
 * [Apollo Client](https://github.com/apollographql/apollo-client) ⭐ 19,812 | 🐛 405 | 🌐 TypeScript | 📅 2026-08-27 - A fully-featured, production ready caching GraphQL client for every server or UI framework.
 * [GraphQL Server](https://github.com/apollographql/graphql-server) ⭐ 13,947 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-26 - GraphQL server for Express, Connect, Hapi and Koa.
-* [GraphQL Yoga](https://github.com/graphcool/graphql-yoga) ⭐ 8,528 | 🐛 160 | 🌐 TypeScript | 📅 2026-08-20 - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
+* [GraphQL Yoga](https://github.com/graphcool/graphql-yoga) ⭐ 8,527 | 🐛 160 | 🌐 TypeScript | 📅 2026-08-20 - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
 * [GraphQL Tools](https://github.com/apollographql/graphql-tools) ⭐ 5,432 | 🐛 116 | 🌐 TypeScript | 📅 2026-08-26 - Build and mock your GraphQL.js schema using the schema language.
 * [GraphQL Subscriptions](https://github.com/apollographql/graphql-subscriptions) ⭐ 1,617 | 🐛 57 | 🌐 TypeScript | 📅 2024-11-11 - A small module that implements GraphQL subscriptions for Node.js.
 * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools) ⭐ 1,528 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-22 - GraphQL debugging tools for Apollo Client in the Chrome developer console.
@@ -41,7 +41,7 @@
 
 ### Boilerplates
 
-* [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 141,958 | 🐛 3,659 | 🌐 JavaScript | 📅 2026-08-27 - Boilerplate for building Next.js apps with Apollo.
+* [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 141,963 | 🐛 3,635 | 🌐 JavaScript | 📅 2026-08-27 - Boilerplate for building Next.js apps with Apollo.
 * [Next.js Auth With Apollo](https://github.com/ooade/next-apollo-auth) ⚠️ Archived - Authentication Boilerplate with Next.js and Apollo GraphQL.
 * [Apollo Redux JWT Authentication Starter](https://github.com/MacKentoch/react-redux-graphql-apollo-bootstrap-webpack-starter) ⭐ 125 | 🐛 4 | 🌐 JavaScript | 📅 2019-02-08 - Handy boilerplate for JWT based Authentication applications.
 * [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) ⭐ 12 | 🐛 44 | 🌐 JavaScript | 📅 2026-01-27 - Boilerplate to start you Apollo graphql server in AWS using serverless framework

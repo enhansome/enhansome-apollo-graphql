@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T13:52:44Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8528
+            "stars": 8527
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:00:21Z",
+            "last_commit": "2026-08-27T17:47:40Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141958
+            "stars": 141963
           }
         },
         {
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:55.172Z",
+    "last_updated": "2026-08-27T17:55:17.590Z",
     "original_repository_info": {
       "archived": false,
       "id": 91425870,
