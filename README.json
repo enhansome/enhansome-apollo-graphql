@@ -16,7 +16,8 @@
             "owner": "apollographql",
             "repo": "apollo-client",
             "stars": 19812
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 56760633,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:57:35Z",
+            "last_commit": "2026-08-28T14:02:10Z",
             "owner": "apollographql",
             "repo": "apollo-server",
             "stars": 13947
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-20T13:52:44Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8527
-          }
+            "stars": 8526
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 54432168,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T17:01:55Z",
+            "last_commit": "2026-08-27T21:29:22Z",
             "owner": "ardatan",
             "repo": "graphql-tools",
             "stars": 5432
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2024-11-11T21:51:02Z",
             "owner": "apollographql",
             "repo": "graphql-subscriptions",
-            "stars": 1617
-          }
+            "stars": 1616
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "apollographql",
             "repo": "apollo-client-devtools",
             "stars": 1528
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "apollographql",
             "repo": "apollo-link",
             "stars": 1423
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "apollographql",
             "repo": "apollo-fetch",
             "stars": 566
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -132,11 +140,12 @@
             "archived": false,
             "id": 145334402,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:10:21Z",
+            "last_commit": "2026-08-28T12:13:56Z",
             "owner": "DanielMSchmidt",
             "repo": "apollo-opentracing",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "ecerroni",
             "repo": "apollo-cache-updater",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         }
       ],
       "title": "Tools"
@@ -168,11 +178,12 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T17:47:40Z",
+            "last_commit": "2026-08-28T18:38:54Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141963
-          }
+            "stars": 141973
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "ooade",
             "repo": "next-apollo-auth",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "MacKentoch",
             "repo": "react-redux-graphql-apollo-bootstrap-webpack-starter",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "RishikeshDarandale",
             "repo": "serverless-graphql-boilerplate",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "ooade",
             "repo": "ApolloSimpleStarter",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "ZaninAndrea",
             "repo": "minimalGraphql",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         }
       ],
       "title": "Boilerplates"
@@ -268,7 +284,8 @@
             "owner": "the-road-to-graphql",
             "repo": "react-graphql-github-apollo",
             "stars": 1592
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "KATT",
             "repo": "shop",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         },
         {
           "node_type": "item",
@@ -298,14 +316,15 @@
             "owner": "WeLikeGraphQL",
             "repo": "universal-react-apollo-example",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T19:04:56.871Z"
         }
       ],
       "title": "Example Apps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:55:17.590Z",
+    "last_updated": "2026-08-28T19:04:56.871Z",
     "original_repository_info": {
       "archived": false,
       "id": 91425870,
