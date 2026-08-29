@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.",
+            "homepage": "https://apollographql.com/client",
             "id": 52630616,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T02:50:11Z",
+            "open_issues": 405,
             "owner": "apollographql",
             "repo": "apollo-client",
-            "stars": 19812
+            "stars": 19812,
+            "topics": [
+              "apollo-client",
+              "apollographql",
+              "graphql",
+              "graphql-client",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -26,12 +37,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.",
+            "homepage": "https://www.apollographql.com/docs/apollo-server/",
             "id": 56760633,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:02:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:58:00Z",
+            "open_issues": 88,
             "owner": "apollographql",
             "repo": "apollo-server",
-            "stars": 13947
+            "stars": 13947,
+            "topics": [
+              "apollographql",
+              "express",
+              "express-graphql",
+              "graphql",
+              "graphql-schema",
+              "graphql-server",
+              "hapi",
+              "koa",
+              "node",
+              "resolvers",
+              "restify"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -42,12 +70,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.",
+            "homepage": "https://the-guild.dev/graphql/yoga-server",
             "id": 110819939,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T13:52:44Z",
+            "open_issues": 160,
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8526
+            "stars": 8527,
+            "topics": [
+              "bun",
+              "deno",
+              "fetch",
+              "graphql",
+              "graphql-server",
+              "javascript",
+              "nodejs",
+              "the-guild",
+              "typescript",
+              "w3c",
+              "whatwg"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -58,12 +103,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach",
+            "homepage": "https://www.graphql-tools.com",
             "id": 54432168,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:29:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:29:43Z",
+            "open_issues": 117,
             "owner": "ardatan",
             "repo": "graphql-tools",
-            "stars": 5432
+            "stars": 5433,
+            "topics": [
+              "graphql",
+              "graphql-api",
+              "graphql-js",
+              "graphql-schema",
+              "javascript",
+              "mock",
+              "schema-language",
+              "schema-stitching",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -74,12 +134,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js",
+            "homepage": null,
             "id": 66106110,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-11T21:51:02Z",
+            "open_issues": 57,
             "owner": "apollographql",
             "repo": "graphql-subscriptions",
-            "stars": 1616
+            "stars": 1616,
+            "topics": [
+              "graphql",
+              "graphql-subscriptions",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -90,12 +159,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apollo Client browser developer tools.",
+            "homepage": "https://apollographql.com/docs/react/development-testing/developer-tooling/#apollo-client-devtools",
             "id": 75882379,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T10:40:52Z",
+            "open_issues": 51,
             "owner": "apollographql",
             "repo": "apollo-client-devtools",
-            "stars": 1528
+            "stars": 1528,
+            "topics": [
+              "apollo-client",
+              "apollo-client-devtools",
+              "chrome-extension",
+              "devtools",
+              "firefox-extension",
+              "graphql"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -106,12 +187,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":link: Interface for fetching and modifying control flow of GraphQL requests",
+            "homepage": "https://www.apollographql.com/docs/link/",
             "id": 93657402,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-14T11:28:06Z",
+            "open_issues": 245,
             "owner": "apollographql",
             "repo": "apollo-link",
-            "stars": 1423
+            "stars": 1423,
+            "topics": [
+              "apollo",
+              "apollo-client",
+              "graphql",
+              "graphql-client",
+              "network-interfaces"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -122,12 +214,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":dog: Lightweight GraphQL client that supports middleware and afterware",
+            "homepage": "https://www.npmjs.com/package/apollo-fetch",
             "id": 95804445,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-07-03T08:56:47Z",
+            "open_issues": 34,
             "owner": "apollographql",
             "repo": "apollo-fetch",
-            "stars": 566
+            "stars": 566,
+            "topics": [
+              "apollo",
+              "fetch",
+              "graphql",
+              "graphql-client",
+              "http"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -138,12 +241,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performance trace your Apollo GraphQL server with Opentracing",
+            "homepage": null,
             "id": 145334402,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:13:56Z",
+            "open_issues": 13,
             "owner": "DanielMSchmidt",
             "repo": "apollo-opentracing",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "apollo-server",
+              "apollographql",
+              "graphql",
+              "jaegertracing",
+              "opentracing",
+              "performance-monitoring",
+              "zipkin"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -154,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper for updating the apollo cache after a mutation",
+            "homepage": null,
             "id": 159340043,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T02:02:06Z",
+            "open_issues": 27,
             "owner": "ecerroni",
             "repo": "apollo-cache-updater",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         }
@@ -176,12 +297,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The React Framework",
+            "homepage": "https://nextjs.org",
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T18:38:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:19:20Z",
+            "open_issues": 3638,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141973
+            "stars": 141980,
+            "topics": [
+              "blog",
+              "browser",
+              "compiler",
+              "components",
+              "hybrid",
+              "nextjs",
+              "node",
+              "react",
+              "server-rendering",
+              "ssg",
+              "static",
+              "static-site-generator",
+              "universal",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -192,12 +333,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Authentication Boilerplate with Next.js and Apollo GraphQL",
+            "homepage": "https://next-auth-apollo.now.sh",
             "id": 112606854,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-29T09:24:46Z",
+            "open_issues": 3,
             "owner": "ooade",
             "repo": "next-apollo-auth",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "apollo",
+              "authentication",
+              "expressjs",
+              "graphql",
+              "nextjs"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -208,12 +360,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "react js + redux + graphQL + Apollo + react router + hot reload + devTools + bootstrap + webpack starter",
+            "homepage": "https://mackentoch.github.io/react-redux-graphql-apollo-bootstrap-webpack-starter",
             "id": 71637232,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-08T05:00:40Z",
+            "open_issues": 4,
             "owner": "MacKentoch",
             "repo": "react-redux-graphql-apollo-bootstrap-webpack-starter",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "apollo",
+              "apollo-client",
+              "boilerplate",
+              "bootstrap",
+              "graphql",
+              "nodejs",
+              "postcss",
+              "react",
+              "react-apollo",
+              "react-hot-loader-3",
+              "react-router",
+              "react-router-v4",
+              "reactjs",
+              "redux",
+              "redux-devtools",
+              "redux-devtools-extension",
+              "router",
+              "scaphold",
+              "webpack",
+              "webpack3"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -224,12 +402,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate template for serverless graphql (apollo) project",
+            "homepage": "https://rishikeshdarandale.github.io/serverless-graphql-boilerplate/",
             "id": 175357822,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-27T10:01:53Z",
+            "open_issues": 44,
             "owner": "RishikeshDarandale",
             "repo": "serverless-graphql-boilerplate",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "apollo",
+              "apollo-server",
+              "boilerplate",
+              "graphql",
+              "graphql-server",
+              "serverless",
+              "serverless-framework"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -240,12 +431,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":star2: Bare Minimum implementation of Apollo Server & Client with MERN",
+            "homepage": "https://apolloss.now.sh",
             "id": 91253802,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-24T10:10:17Z",
+            "open_issues": 0,
             "owner": "ooade",
             "repo": "ApolloSimpleStarter",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "apollo",
+              "apollo-client",
+              "apollo-server",
+              "boilerplate"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -256,12 +457,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal graphql node client",
+            "homepage": null,
             "id": 115204878,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-17T20:54:30Z",
+            "open_issues": 5,
             "owner": "ZaninAndrea",
             "repo": "minimalGraphql",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "apollo",
+              "apollo-client",
+              "graphql",
+              "node",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         }
@@ -278,12 +490,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.",
+            "homepage": "https://www.robinwieruch.de/react-with-graphql-tutorial",
             "id": 119005072,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-12T08:41:45Z",
+            "open_issues": 11,
             "owner": "the-road-to-graphql",
             "repo": "react-graphql-github-apollo",
-            "stars": 1592
+            "stars": 1592,
+            "topics": [
+              "apollo",
+              "apollo-client",
+              "apollographql",
+              "github",
+              "github-api",
+              "github-client",
+              "github-graphql",
+              "graphql",
+              "react",
+              "react-apollo",
+              "react-router-v4"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -294,12 +523,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🛍🛒 Full-stack React/Prisma/TS/GraphQL E-Commerce Example",
+            "homepage": "https://shop.kattcorp.co.uk",
             "id": 123173366,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-06-09T08:18:30Z",
+            "open_issues": 1,
             "owner": "KATT",
             "repo": "shop",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "circleci",
+              "graphql",
+              "jest",
+              "nextjs",
+              "nightwatch",
+              "now",
+              "prisma",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         },
@@ -310,12 +554,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal React Apollo App (GraphQL) consuming: https://github.com/WeLikeGraphQL/wordpress-graphql-api-example!",
+            "homepage": null,
             "id": 70249959,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-02-19T17:12:58Z",
+            "open_issues": 1,
             "owner": "WeLikeGraphQL",
             "repo": "universal-react-apollo-example",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "apollo",
+              "graphql",
+              "react",
+              "universal",
+              "webpack2"
+            ]
           },
           "first_seen": "2026-08-28T19:04:56.871Z"
         }
@@ -324,15 +579,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:04:56.871Z",
+    "last_updated": "2026-08-29T04:56:31.584Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem :star2:",
+      "homepage": null,
       "id": 91425870,
       "language": null,
+      "license": null,
       "last_commit": "2021-05-13T13:43:44Z",
+      "open_issues": 2,
       "owner": "ooade",
       "repo": "awesome-apollo-graphql",
-      "stars": 156
+      "stars": 156,
+      "topics": [
+        "apollo",
+        "apollo-client",
+        "apollo-graphql-ecosystem",
+        "apollo-server",
+        "article",
+        "awesome",
+        "awesome-apollo-graphql",
+        "awesome-list",
+        "awesomeness",
+        "boilerplate",
+        "graphql"
+      ]
     },
     "original_repository_sha": "a60ac6d5563ecd94de59883cc1ed3b3be2845817",
     "enhanced_repository": "enhansome/enhansome-apollo-graphql",
