@@ -19,7 +19,7 @@
             "open_issues": 406,
             "owner": "apollographql",
             "repo": "apollo-client",
-            "stars": 19815,
+            "stars": 19804,
             "topics": [
               "apollo-client",
               "apollographql",
@@ -42,11 +42,11 @@
             "id": 56760633,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T04:45:23Z",
+            "last_commit": "2026-09-09T05:49:29Z",
             "open_issues": 89,
             "owner": "apollographql",
             "repo": "apollo-server",
-            "stars": 13952,
+            "stars": 13951,
             "topics": [
               "apollographql",
               "express",
@@ -75,7 +75,7 @@
             "id": 110819939,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T08:53:59Z",
+            "last_commit": "2026-09-09T10:00:40Z",
             "open_issues": 164,
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
@@ -108,11 +108,11 @@
             "id": 54432168,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T11:25:51Z",
+            "last_commit": "2026-09-08T21:29:22Z",
             "open_issues": 117,
             "owner": "ardatan",
             "repo": "graphql-tools",
-            "stars": 5433,
+            "stars": 5432,
             "topics": [
               "graphql",
               "graphql-api",
@@ -302,11 +302,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T11:34:24Z",
-            "open_issues": 3298,
+            "last_commit": "2026-09-09T11:57:11Z",
+            "open_issues": 3310,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142215,
+            "stars": 142230,
             "topics": [
               "blog",
               "browser",
@@ -499,7 +499,7 @@
             "open_issues": 11,
             "owner": "the-road-to-graphql",
             "repo": "react-graphql-github-apollo",
-            "stars": 1592,
+            "stars": 1591,
             "topics": [
               "apollo",
               "apollo-client",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:46:47.155Z",
+    "last_updated": "2026-09-09T11:59:07.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem :star2:",

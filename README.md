@@ -25,10 +25,10 @@
 
 ### Tools
 
-* [Apollo Client](https://github.com/apollographql/apollo-client) ⭐ 19,815 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-07 - A fully-featured, production ready caching GraphQL client for every server or UI framework.
-* [GraphQL Server](https://github.com/apollographql/graphql-server) ⭐ 13,952 | 🐛 89 | 🌐 TypeScript | 📅 2026-09-08 - GraphQL server for Express, Connect, Hapi and Koa.
-* [GraphQL Yoga](https://github.com/graphcool/graphql-yoga) ⭐ 8,528 | 🐛 164 | 🌐 TypeScript | 📅 2026-09-08 - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
-* [GraphQL Tools](https://github.com/apollographql/graphql-tools) ⭐ 5,433 | 🐛 117 | 🌐 TypeScript | 📅 2026-09-08 - Build and mock your GraphQL.js schema using the schema language.
+* [Apollo Client](https://github.com/apollographql/apollo-client) ⭐ 19,804 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-07 - A fully-featured, production ready caching GraphQL client for every server or UI framework.
+* [GraphQL Server](https://github.com/apollographql/graphql-server) ⭐ 13,951 | 🐛 89 | 🌐 TypeScript | 📅 2026-09-09 - GraphQL server for Express, Connect, Hapi and Koa.
+* [GraphQL Yoga](https://github.com/graphcool/graphql-yoga) ⭐ 8,528 | 🐛 164 | 🌐 TypeScript | 📅 2026-09-09 - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
+* [GraphQL Tools](https://github.com/apollographql/graphql-tools) ⭐ 5,432 | 🐛 117 | 🌐 TypeScript | 📅 2026-09-08 - Build and mock your GraphQL.js schema using the schema language.
 * [GraphQL Subscriptions](https://github.com/apollographql/graphql-subscriptions) ⭐ 1,616 | 🐛 57 | 🌐 TypeScript | 📅 2024-11-11 - A small module that implements GraphQL subscriptions for Node.js.
 * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools) ⭐ 1,528 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-07 - GraphQL debugging tools for Apollo Client in the Chrome developer console.
 * [Apollo Link](https://github.com/apollographql/apollo-link) ⚠️ Archived -  Interface for fetching and modifying control flow of GraphQL requests.
@@ -41,7 +41,7 @@
 
 ### Boilerplates
 
-* [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 142,215 | 🐛 3,298 | 🌐 JavaScript | 📅 2026-09-08 - Boilerplate for building Next.js apps with Apollo.
+* [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 142,230 | 🐛 3,310 | 🌐 JavaScript | 📅 2026-09-09 - Boilerplate for building Next.js apps with Apollo.
 * [Next.js Auth With Apollo](https://github.com/ooade/next-apollo-auth) ⚠️ Archived - Authentication Boilerplate with Next.js and Apollo GraphQL.
 * [Apollo Redux JWT Authentication Starter](https://github.com/MacKentoch/react-redux-graphql-apollo-bootstrap-webpack-starter) ⭐ 125 | 🐛 4 | 🌐 JavaScript | 📅 2019-02-08 - Handy boilerplate for JWT based Authentication applications.
 * [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) ⭐ 12 | 🐛 44 | 🌐 JavaScript | 📅 2026-01-27 - Boilerplate to start you Apollo graphql server in AWS using serverless framework
@@ -55,7 +55,7 @@
 
 ### Example Apps
 
-* [GitHub Client with React and Apollo](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,592 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
+* [GitHub Client with React and Apollo](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,591 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
 * [Shop](https://github.com/KATT/shop) ⚠️ Archived - An E-Commerce Example Project Built with TypeScript, Prisma, Apollo, and Next.js.
 * [Universal React Apollo](https://github.com/WeLikeGraphQL/universal-react-apollo-example) ⭐ 118 | 🐛 1 | 🌐 JavaScript | 📅 2017-02-19 - Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuffs.
 
@@ -84,4 +84,4 @@ Make sure you follow the [guidelines](/contributing.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
