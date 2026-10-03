@@ -15,11 +15,11 @@
             "id": 52630616,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T18:49:16Z",
+            "last_commit": "2026-10-03T08:33:49Z",
             "open_issues": 410,
             "owner": "apollographql",
             "repo": "apollo-client",
-            "stars": 19804,
+            "stars": 19805,
             "topics": [
               "apollo-client",
               "apollographql",
@@ -164,7 +164,7 @@
             "id": 75882379,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:49:02Z",
+            "last_commit": "2026-10-03T09:11:31Z",
             "open_issues": 52,
             "owner": "apollographql",
             "repo": "apollo-client-devtools",
@@ -302,11 +302,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:34:48Z",
-            "open_issues": 3530,
+            "last_commit": "2026-10-03T11:11:00Z",
+            "open_issues": 3533,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143017,
+            "stars": 143041,
             "topics": [
               "blog",
               "browser",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:44.445Z",
+    "last_updated": "2026-10-03T12:06:03.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem :star2:",
