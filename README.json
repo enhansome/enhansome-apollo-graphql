@@ -75,8 +75,8 @@
             "id": 110819939,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:49:23Z",
-            "open_issues": 148,
+            "last_commit": "2026-10-03T13:49:27Z",
+            "open_issues": 147,
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
             "stars": 8527,
@@ -112,7 +112,7 @@
             "open_issues": 124,
             "owner": "ardatan",
             "repo": "graphql-tools",
-            "stars": 5430,
+            "stars": 5429,
             "topics": [
               "graphql",
               "graphql-api",
@@ -246,7 +246,7 @@
             "id": 145334402,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:05:26Z",
+            "last_commit": "2026-10-04T09:09:04Z",
             "open_issues": 13,
             "owner": "DanielMSchmidt",
             "repo": "apollo-opentracing",
@@ -302,11 +302,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T11:11:00Z",
-            "open_issues": 3533,
+            "last_commit": "2026-10-04T12:42:53Z",
+            "open_issues": 3538,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143041,
+            "stars": 143131,
             "topics": [
               "blog",
               "browser",
@@ -369,7 +369,7 @@
             "open_issues": 4,
             "owner": "MacKentoch",
             "repo": "react-redux-graphql-apollo-bootstrap-webpack-starter",
-            "stars": 125,
+            "stars": 124,
             "topics": [
               "apollo",
               "apollo-client",
@@ -532,7 +532,7 @@
             "open_issues": 1,
             "owner": "KATT",
             "repo": "shop",
-            "stars": 383,
+            "stars": 382,
             "topics": [
               "circleci",
               "graphql",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:06:03.362Z",
+    "last_updated": "2026-10-04T12:53:14.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem :star2:",
