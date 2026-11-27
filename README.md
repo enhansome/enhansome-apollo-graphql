@@ -25,7 +25,7 @@
 
 ### Tools
 
-* [Apollo Client](https://github.com/apollographql/apollo-client) ⭐ 19,779 | 🐛 411 | 🌐 TypeScript | 📅 2026-11-26 - A fully-featured, production ready caching GraphQL client for every server or UI framework.
+* [Apollo Client](https://github.com/apollographql/apollo-client) ⭐ 19,778 | 🐛 412 | 🌐 TypeScript | 📅 2026-11-26 - A fully-featured, production ready caching GraphQL client for every server or UI framework.
 * [GraphQL Server](https://github.com/apollographql/graphql-server) ⭐ 13,956 | 🐛 101 | 🌐 TypeScript | 📅 2026-11-22 - GraphQL server for Express, Connect, Hapi and Koa.
 * [GraphQL Yoga](https://github.com/graphcool/graphql-yoga) ⭐ 8,539 | 🐛 147 | 🌐 TypeScript | 📅 2026-11-26 - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
 * [GraphQL Tools](https://github.com/apollographql/graphql-tools) ⭐ 5,440 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-26 - Build and mock your GraphQL.js schema using the schema language.
@@ -41,7 +41,7 @@
 
 ### Boilerplates
 
-* [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 143,740 | 🐛 4,157 | 🌐 JavaScript | 📅 2026-11-26 - Boilerplate for building Next.js apps with Apollo.
+* [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 143,751 | 🐛 4,155 | 🌐 JavaScript | 📅 2026-11-27 - Boilerplate for building Next.js apps with Apollo.
 * [Next.js Auth With Apollo](https://github.com/ooade/next-apollo-auth) ⚠️ Archived - Authentication Boilerplate with Next.js and Apollo GraphQL.
 * [Apollo Redux JWT Authentication Starter](https://github.com/MacKentoch/react-redux-graphql-apollo-bootstrap-webpack-starter) ⭐ 124 | 🐛 4 | 🌐 JavaScript | 📅 2019-02-08 - Handy boilerplate for JWT based Authentication applications.
 * [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) ⭐ 12 | 🐛 44 | 🌐 JavaScript | 📅 2026-01-27 - Boilerplate to start you Apollo graphql server in AWS using serverless framework
@@ -84,4 +84,4 @@ Make sure you follow the [guidelines](/contributing.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
